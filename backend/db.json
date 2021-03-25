@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rosa Colombiana",
+      "price": "27"
+    },
+    {
+      "id": 2,
+      "name": "Tulipa",
+      "price": "38"
+    },
+    {
+      "id": 3,
+      "name": "Buquê de rosas colombianas",
+      "price": "250"
+    },
+    {
+      "name": "Arranjo de Horquídeas",
+      "price": "180",
+      "id": 4
+    },
+    {
+      "name": "Coroa de flores",
+      "price": "750",
+      "id": 5
+    }
+  ]
+}
